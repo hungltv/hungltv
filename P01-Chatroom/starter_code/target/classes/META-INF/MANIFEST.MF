@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Chatroom
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: cesri
+Implementation-Vendor-Id: edu.udacity.java.nano
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/chatroom-starter
+Created-By: Maven Integration for Eclipse
+
